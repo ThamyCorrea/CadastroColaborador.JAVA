@@ -79,7 +79,7 @@ private static final String PASSWORD = "sua_senha";
 
 ## Autora 🧑‍💻 
 
-Seu Nome: ThamyCorrea, junto com o curso FIAP
+Seu Nome: ThamyCorrea, junto com o curso FIAP - Fundamentos em JAVA
 
 GitHub: https://github.com/ThamyCorrea
 
